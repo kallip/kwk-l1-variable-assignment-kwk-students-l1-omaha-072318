@@ -80,8 +80,8 @@
 # end
 # greeting("Cardi B")
 
-def greeting(my_name)
-  puts "Hi, I'm #{my_name}"
-end
+# def greeting(my_name)
+#   puts "Hi, I'm #{my_name}"
+# end
 
-greeting("Fergie")
+# greeting("Fergie")
