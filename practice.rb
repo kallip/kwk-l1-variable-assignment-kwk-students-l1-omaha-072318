@@ -112,3 +112,8 @@
 # say_hello_one
 # say_hello_two
 # say_hello_three
+
+def greeting(my_name, your_name)
+  puts "Hi #{your_name}, I'm #{my_name}"
+end
+greeting("Cardi B","Karlie")
